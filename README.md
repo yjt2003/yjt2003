@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**My name is KenDall** <br>
+**My name is Kendall** <br>
 I completed my undergraduate studies at Taiyuan University of Technology (211 University), majoring in computer-related fields. Currently, I specialize in image recognition and computer vision, and have extensive software development experience. I have accumulated a large amount of code for two front-end frameworks (VUE and REACT). The back-end is familiar with technologies such as JAVA,MVC framework, and JAVAWEB. Looking forward to resonating with you technically![smiling and humbling]
 
 - 🔭 I’m currently working on masterrrrrrrrr offerrrrrrrrrr
